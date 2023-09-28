@@ -1,6 +1,6 @@
 <h2 align="center">Projeto Desenvolvido com HTML,CSS</h2>
 <div align="center">
-  <img height="500" src="https://i.ibb.co/wr000v3/web.png"  />
+  <img height="500" src="reviewladingpage.png"  />
 </div>
 
 
